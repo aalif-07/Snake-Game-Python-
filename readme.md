@@ -1,4 +1,4 @@
-# 🐍 Enhanced Snake Game in Python (Pygame)
+# Snake Game in Python (Pygame)
 
 A colorful and interactive **Snake Game** built with Python and Pygame, now with **sound effects, background music, and speed progression**.
 
